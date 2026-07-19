@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi there 👋 I'm Dipali Nitin Koli
 
-<!--
-**DipaliNitinKoli/DipaliNitinKoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Java Backend Engineer | 12+ Years Experience
 
-Here are some ideas to get you started:
+I am a Java Backend Engineer with 12+ years of experience designing and developing enterprise applications in Banking, Insurance, Telecom, and Media domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Module Lead at Mphasis and passionate about building scalable backend systems using Java and Spring Boot.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Java 8
+- Java 17
+- SQL
+- JavaScript
+
+### Backend
+- Spring Boot
+- Spring MVC
+- Hibernate
+- JPA
+- REST APIs
+- Microservices
+
+### Cloud & Messaging
+- AWS Lambda
+- Amazon SQS
+- Amazon S3
+
+### Database
+- PostgreSQL
+- Oracle
+- MySQL
+
+### Tools
+- Maven
+- Git
+- IntelliJ IDEA
+- Postman
+- Jenkins
+- SonarQube
+- Splunk
+- Dynatrace
+
+---
+
+## 🚀 Currently Building
+
+- Employee Management API
+- Spring Security JWT Authentication
+- Kafka Event Processing
+- AWS SQS Integration
+- Microservices Portfolio
+
+---
+
+## 🎯 Career Goal
+
+Seeking Senior Java Backend Engineer / Tech Lead opportunities in:
+
+- 🇳🇱 Netherlands
+- 🇩🇪 Germany
+- 🇮🇪 Ireland
+- 🇸🇪 Sweden
+- 🇩🇰 Denmark
+
+Open to relocation.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/dipalinitinkoli/
+- Email: dipalinitinkoli@gmail.com
